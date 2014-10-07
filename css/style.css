@@ -1,0 +1,28 @@
+body{
+background-image: radial-gradient(#fff, #eee) !important;
+}
+
+.productivity{
+	-webkit-transform: translateZ(-500px);
+    -moz-transform:    translateZ(-500px);
+    -ms-transform:     translateZ(-500px);
+    -o-transform:      translateZ(-500px);
+    transform:         translateZ(-500px);
+}
+
+.productivity.past{
+	opacity: 0;
+}
+
+.immersive{
+	-webkit-transform: translateZ(-1000px);
+    -moz-transform:    translateZ(-1000px);
+    -ms-transform:     translateZ(-1000px);
+    -o-transform:      translateZ(-1000px);
+    transform:         translateZ(-1000px);
+}
+
+.matdes
+{
+	background-image: "img/material.gif" !important;
+}
